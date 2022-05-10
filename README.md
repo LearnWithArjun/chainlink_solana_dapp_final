@@ -1,6 +1,6 @@
-### Chainlink + Solana combo app
+# Chainlink + Solana combo app
 
-# How to run this project
+### How to run this project
 1. Navigate to the project directory
 2. Run `npm install` to install the required dependencies
 3. Generate a new wallet: `solana-keygen new -o id.json`
